@@ -73,6 +73,7 @@ Left in English on purpose:
 ```bash
 python -m venv venv && ./venv/bin/pip install -r requirements.txt
 
+./venv/bin/python tools/extract.py      # the game's English -> work/en.json (the validator's reference)
 ./venv/bin/python tools/build_lang.py   # lang/*.json -> language/ar/Strings.json
 ./tools/stage.sh /tmp/RoR2Arabic        # build the plugin and lay it out as installed
 ./tools/release.sh                      # the whole thing, zipped, into dist/

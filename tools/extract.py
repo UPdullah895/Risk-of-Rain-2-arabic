@@ -7,8 +7,10 @@ does (loosely), preferring .json when a .txt duplicates it.
 import json, os, re, sys
 from collections import OrderedDict
 
-GAME = ("/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2/"
-        "Risk of Rain 2_Data/StreamingAssets")
+# Set ROR2_DIR to point at your own install.
+GAME = os.path.join(os.environ.get(
+    "ROR2_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2"),
+    "Risk of Rain 2_Data", "StreamingAssets")
 EN = os.path.join(GAME, "Language", "en")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 

@@ -12,8 +12,10 @@ import UnityPy
 from fontTools.ttLib import TTFont
 from fontTools.merge import Merger
 
-AA = ("/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2/"
-      "Risk of Rain 2_Data/StreamingAssets/aa/StandaloneWindows64")
+# Set ROR2_DIR to point at your own install.
+AA = os.path.join(os.environ.get(
+    "ROR2_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2"),
+    "Risk of Rain 2_Data", "StreamingAssets", "aa", "StandaloneWindows64")
 
 
 def game_root_font() -> bytes:
