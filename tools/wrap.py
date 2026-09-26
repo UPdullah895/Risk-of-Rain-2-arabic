@@ -27,6 +27,11 @@ SPRITE_RE = re.compile(r"<sprite\b[^<>]*>", re.I)
 # The reshaper drops harakat before anything is drawn - TMP has no mark positioning, so
 # they would pile up as spacing glyphs - which means they take no room on screen either.
 HARAKAT_RE = re.compile(r"[\u0610-\u061a\u064b-\u065f\u0670\u06d6-\u06ed]")
+# RoR2's TMP style sheet draws cKeywordName wrapped in brackets - "[ Agile ]" - so a
+# keyword line is wider on screen than the string we measure. Measured in-game: without
+# this the line overruns its panel and TMP breaks the stray bracket onto a line of its own.
+KEYWORD_STYLE = "<style=cKeywordName>"
+KEYWORD_BRACKETS = "[  ]"
 
 _widths = None
 _rules = None
@@ -102,10 +107,12 @@ def wrap(token: str, text: str) -> str:
         return text
     out = []
     for para in text.split("\n"):
-        if width_em(para) <= limit:
+        # The brackets sit at the head of the paragraph, so only its first line pays for them.
+        head = width_em(KEYWORD_BRACKETS) if KEYWORD_STYLE in para else 0.0
+        if head + width_em(para) <= limit:
             out.append(para)
             continue
-        line, cur = [], 0.0
+        line, cur = [], head
         for word in _words(para):
             ww = width_em(word)
             space = width_em(" ") if line else 0.0

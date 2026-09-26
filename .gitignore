@@ -18,7 +18,7 @@ work/
 # Python bytecode
 __pycache__/
 *.pyc
-
-# Working screenshots from development sessions - large, and most are debugging probes
-screenshots/
 fonts/ror-noto-arabic.ttf
+
+# Working notes from development sessions
+NOTES.md

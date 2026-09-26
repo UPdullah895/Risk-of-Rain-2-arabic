@@ -2,7 +2,7 @@
  "_comment": "Token pattern -> the container's width in em (container px / font px). First match wins, so specific patterns come before general ones. Only long strings need an entry; anything not listed is left for TMP to lay out, which is correct for text that fits on one line. Wrapping NARROWER than the container is always safe - TMP only re-wraps, and re-wrapping is what inverts the line order. Calibrated in-game: each number is measured off a line the game itself fitted without breaking. When one token is drawn in two containers, the NARROWER one decides - a skill description appears both in the character-select list (34 em) and in the loadout tooltip (26 em), so it is wrapped for the tooltip.",
  "^(LOGBOOK_UNLOCK_ITEM_|INSPECT_INFO_UNKNOWN_DRONE_DESCRIPTION$|ACHIEVEMENT_[A-Z0-9_]+_DESCRIPTION$)": 14,
  "^OBJECTIVE_": 11,
- "^KEYWORD_": 28,
+ "^KEYWORD_": 25,
  "^TITLE_[A-Z_]+_DESC$": 55,
  "^DESC_MULTIPLAYER_": 55,
  "^(START_GAME|BROWSE_LOCAL_GAME|FRIEND_GAME_BROWSER)_DESCRIPTION$": 55,

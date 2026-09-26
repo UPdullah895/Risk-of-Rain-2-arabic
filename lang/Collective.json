@@ -117,7 +117,7 @@
  "GAME_RESULT_DECOMPILE": "فُكَّ ودخل الجماعة",
  "SOLUSHEART_OFFERING_ACCEPT": "اقبل العَرْض",
  "VULTURE_KILLS_BOSS": "أيها المختار، لا يكون البطل إلا واحدًا! ولن أتنازل!",
- "LOGBOOK_CATEGORY_DRONE": "مُسيَّرة",
+ "LOGBOOK_CATEGORY_DRONE": "المُسيَّرات",
  "VENDING_MACHINE_CE_CONTEXT": "خذ مشروبًا مُنعشًا",
  "HOSTGAMEPANEL_ALLOW_REMOTE_OPERATION": "اسمح بالتشغيل عن بُعد",
  "HOSTGAMEPANEL_ALLOW_REMOTE_OPERATION_DESCRIPTION": "يحدّد ما إذا كان يُسمح للّاعبين بإنفاق المال ليعودوا إلى اللعب بصفة مُسيَّرة بعد موتهم.",
@@ -126,7 +126,6 @@
  "BODY_TIMESSUMMONED_FORMAT": "مرّات الاستدعاء: <style=cEvent>{0}</style>",
  "VULTUREEGG_BODY_NAME": "بيض",
  "ALTARSKELETON_BODY_NAME": "؟؟؟",
-
  "BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>ميثريكس: {0}</color></size>",
  "BROTHER_SPAWN_PHASE1_1": "صَلِّ.",
  "BROTHER_SPAWN_PHASE1_2": "تضرّع.",
@@ -182,7 +181,6 @@
  "BROTHERHURT_KILL_TITANGOLD_2": "عودي إلى التراب أيتها الحارسة.",
  "BROTHERHURT_KILL_HERETIC_1": "عُد أشلاءً أيها الزنديق.",
  "BROTHERHURT_KILL_HERETIC_2": "مُت ثانيةً أيها الزنديق.",
-
  "EARLY_ACCESS_DISCLAIMER": "شكرًا لك على لعب Risk of Rain 2! \r\n\r\nتذكّر أن RoR2 ما زالت قيد التطوير النشط خلال الوصول المبكر! وقد تصادف ميزات ناقصة أو غير مكتملة <sprite name=\"WIP\">.\r\n\r\nأرسل إلينا ملاحظاتك أو بلاغات الأخطاء على contact@hopoogames.com. ويمكنك أيضًا الانضمام إلينا في قناة ديسكورد الرسميّة، المتاحة ضمن 'الموسيقى والمزيد'. \r\n\r\nنراك على الكوكب.\r\n\r\n<i>- Hopoo Games</i>",
  "MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "أخفقت اللعبة في تحميل مكتبة لازمة بسبب مشكلة في تثبيت Microsoft Visual C++ 2015 Redistributable (x64) لديك. والزرّ أدناه يفتح متصفّحك على صفحة التنزيل من مايكروسوفت لهذا المثبّت. ولاحظ أنه إن أخفق التثبيت لأن الحزمة مثبّتة من قبل، فعليك <i>إلغاء تثبيتها</i> ثم المحاولة ثانيةً. ويحدث هذا أيضًا إن كانت لديك إصدارات أحدث من الحزمة، كإصدار 2017 أو 2019، إذ تمنع تثبيت إصدار 2015 بعدها.\n\nسيُغلق هذا البرنامج بعد إغلاق هذه الرسالة.",
  "FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION": "يسعدنا أن ندعو ناجين جددًا إلى بتريكور 5! صار في Risk of Rain 2 لعبٌ مشترك بين كل لاعبي الحاسوب!\n\n لتفعيل اللعب المشترك على الحاسوب، اضغط زرّ \"فعّل اللعب المشترك\" أدناه أو اذهب إلى الإعدادات > طريقة اللعب في أي وقت (يتطلّب إعادة تشغيل)!\n\nلمعرفة المزيد عن اللعب المشترك أو للحصول على الدعم، اضغط زرّ \"مزيد من المعلومات\" أدناه"
