@@ -15,7 +15,7 @@
 
 ## Install
 
-**Download the latest release**, unzip it, and run the installer inside:
+**Download the [latest release](https://github.com/UPdullah895/Risk-of-Rain-2-arabic/releases/latest)**, unzip it, and run the installer inside:
 
 | | |
 |---|---|
