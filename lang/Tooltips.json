@@ -1,0 +1,19 @@
+{
+ "TOOLTIP_TIME_DIFFICULTY": "الصعوبة تزداد <i>دائمًا</i> مع مرور الوقت - أسرِع!",
+ "TOOLTIP_EQUIPMENT": "<color=orange>العتاد</color> أغراض قوية تُفعَّل يدويًا.",
+ "TOOLTIP_SPRINT": "استخدم العَدْو للتنقّل في الخريطة!",
+ "TOOLTIP_WIP_CONTENT_NAME": "قيد الإنشاء",
+ "TOOLTIP_WIP_CONTENT_DESCRIPTION": "هذا المحتوى ما زال قيد التطوير. عُد قريبًا!",
+ "TOOLTIP_UNLOCK_LOG_NAME": "فُتح مدخل في السجل",
+ "TOOLTIP_UNLOCK_LOG_DESCRIPTION": "سيظهر هذا المدخل في السجل من الآن.",
+ "TOOLTIP_UNLOCK_ITEM_NAME": "فُتح غرض",
+ "TOOLTIP_UNLOCK_ITEM_DESCRIPTION": "سيظهر هذا الغرض عشوائيًا في الجولات.",
+ "TOOLTIP_UNLOCK_EQUIPMENT_NAME": "فُتح عتاد",
+ "TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION": "سيظهر هذا العتاد عشوائيًا في الجولات.",
+ "TOOLTIP_UNLOCK_SURVIVOR_NAME": "فُتح ناجٍ",
+ "TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION": "أصبح هذا الناجي متاحًا.",
+ "TOOLTIP_UNLOCK_ARTIFACT_NAME": "فُتح أثر",
+ "TOOLTIP_UNLOCK_ARTIFACT_DESCRIPTION": "أصبح هذا الأثر متاحًا.",
+ "TOOLTIP_UNLOCK_GENERIC_NAME": "تم الفتح",
+ "TOOLTIP_UNLOCK_GENERIC_DESCRIPTION": "أصبح هذا المحتوى متاحًا."
+}

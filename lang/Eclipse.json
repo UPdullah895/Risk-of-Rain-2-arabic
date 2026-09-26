@@ -1,0 +1,21 @@
+{
+ "ECLIPSE_GAMEMODE_NAME": "الكسوف",
+ "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>الكسوف</style> نمط لعب يضيف إلى جولتك معدّلات تحدٍّ تتراكم فوق بعضها.\n\nفي كل مرّة <style=cIsUtility>تُنهي فيها اللعبة</style>، يرتفع مستوى الكسوف <style=cIsUtility>ارتفاعًا دائمًا</style> مع ذلك الناجي، حتى <style=cIsUtility>8</style> مرّات كحدّ أقصى.",
+ "ECLIPSE_GAMEMODE_START": "ابدأ الكسوف",
+ "ECLIPSE_1_NAME": "الكسوف (1)",
+ "ECLIPSE_2_NAME": "الكسوف (2)",
+ "ECLIPSE_3_NAME": "الكسوف (3)",
+ "ECLIPSE_4_NAME": "الكسوف (4)",
+ "ECLIPSE_5_NAME": "الكسوف (5)",
+ "ECLIPSE_6_NAME": "الكسوف (6)",
+ "ECLIPSE_7_NAME": "الكسوف (7)",
+ "ECLIPSE_8_NAME": "الكسوف (8)",
+ "ECLIPSE_1_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style></style>",
+ "ECLIPSE_2_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style></style>",
+ "ECLIPSE_3_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style></style>",
+ "ECLIPSE_4_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style>\n<mspace=0.5em>(4)</mspace> سرعة الأعداء: <style=cIsHealth>+40%</style></style>",
+ "ECLIPSE_5_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style>\n<mspace=0.5em>(4)</mspace> سرعة الأعداء: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> شفاء الحلفاء: <style=cIsHealth>-50%</style></style>",
+ "ECLIPSE_6_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style>\n<mspace=0.5em>(4)</mspace> سرعة الأعداء: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> شفاء الحلفاء: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> الذهب الساقط من الأعداء: <style=cIsHealth>-20%</style></style>",
+ "ECLIPSE_7_DESCRIPTION": "يبدأ من صعوبة موسميّة الأساسية.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style>\n<mspace=0.5em>(4)</mspace> سرعة الأعداء: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> شفاء الحلفاء: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> الذهب الساقط من الأعداء: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> زمن استعادة مهارات الأعداء: <style=cIsHealth>-50%</style></style>",
+ "ECLIPSE_8_DESCRIPTION": "\"إنما تحتفلون في النور... لأنني أسمح بذلك.\" \n\nيبدأ من صعوبة موسميّة الأساسية. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> صحة الحلفاء الابتدائية: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> نطاق جهاز الانتقال: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> ضرر السقوط على الحلفاء: <style=cIsHealth>+100% ومميت</style> \n<mspace=0.5em>(4)</mspace> سرعة الأعداء: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> شفاء الحلفاء: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> الذهب الساقط من الأعداء: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> زمن استعادة مهارات الأعداء: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> يتلقّى الحلفاء <style=cIsHealth>ضررًا دائمًا</style></style>"
+}

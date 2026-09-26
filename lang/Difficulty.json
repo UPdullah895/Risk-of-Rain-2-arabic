@@ -1,0 +1,14 @@
+{
+ "DIFFICULTY_BAR_0": "سهل جدًا",
+ "DIFFICULTY_BAR_1": "سهل",
+ "DIFFICULTY_BAR_2": "متوسط",
+ "DIFFICULTY_BAR_3": "صعب",
+ "DIFFICULTY_BAR_4": "صعب جدًا",
+ "DIFFICULTY_BAR_5": "جنوني",
+ "DIFFICULTY_BAR_6": "مستحيل",
+ "DIFFICULTY_BAR_7": "أراك",
+ "DIFFICULTY_BAR_8": "أنا قادم إليك",
+ "DIFFICULTY_BAR_9": "هاهاهاهاها",
+ "STAGE_COUNT_FORMAT": "<style=cSub>طور</style> {0}",
+ "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>مستوى</style> {0}"
+}

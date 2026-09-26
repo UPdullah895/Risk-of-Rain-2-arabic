@@ -1,0 +1,19 @@
+{
+ "KEYWORD_POISON": "<style=cKeywordName>سامّ</style><style=cSub>يُحدث ضررًا يعادل <style=cIsDamage>10%</style> من صحته القصوى خلال 10ث. <i>السمّ لا يقتل الأعداء.</i></style>",
+ "KEYWORD_RAPID_REGEN": "<style=cKeywordName>مُتجدِّد</style><style=cSub>يشفيك بمقدار <style=cIsHealing>5%</style> من صحتك القصوى خلال 0.5ث.</style>",
+ "KEYWORD_AGILE": "<style=cKeywordName>رشيق</style><style=cSub>يمكن استخدام المهارة أثناء العَدْو.</style>",
+ "KEYWORD_PERCENT_HP": "<style=cKeywordName>X% صحة</style><style=cSub>تكلّف المهارة <style=cIsHealth>X% من صحتك الحالية</style>.</style>",
+ "KEYWORD_SONIC_BOOM": "<style=cKeywordName>دوّي صوتي</style><style=cSub><style=cIsUtility>يدفع</style> كل من يصيبه من الأعداء بعيدًا. <style=cIsUtility>يدفعك إلى الخلف</style> إن كنت في الهواء.</style>",
+ "KEYWORD_WEAK": "<style=cKeywordName>إنهاك</style><style=cSub>يخفض سرعة الحركة والضرر بنسبة <style=cIsDamage>40%</style>. ويخفض التدريع بمقدار <style=cIsDamage>20</style>.</style>",
+ "KEYWORD_HEAVY": "<style=cKeywordName>ثقيل</style><style=cSub>كلما زادت سرعة حركتك زاد ضرر المهارة.</style>",
+ "KEYWORD_FREEZING": "<style=cKeywordName>تجميد</style><style=cSub>يجمّد الأعداء في أماكنهم. والعدو المجمّد <style=cIsHealth>يُقتل فورًا</style> إن كانت صحته دون <style=cIsHealth>30%</style>.</style>",
+ "KEYWORD_STUNNING": "<style=cKeywordName>إذهال</style><style=cSub>يقطع هجوم الأعداء ويذهلهم لوهلة.",
+ "KEYWORD_EXPOSE": "<style=cKeywordName>كشف</style><style=cSub>إصابة الأعداء المكشوفين تخفض أزمنة استعادة كل المهارات بمقدار <style=cIsUtility>1.0ث</style> وتُحدث ضررًا إضافيًا بنسبة <style=cIsDamage>+350%</style>.",
+ "KEYWORD_SHOCKING": "<style=cKeywordName>صعق</style><style=cSub>يقطع هجوم الأعداء ويذهلهم. ويزول الإذهال إن تلقّى الهدف ضررًا يتجاوز <style=cIsHealth>10%</style> من صحته القصوى.",
+ "KEYWORD_SLAYER": "<style=cKeywordName>فتّاك</style><style=cSub>يُحدث ضررًا يصل إلى <style=cIsDamage>3 أضعاف</style> ضد الأعداء منخفضي الصحة.</style>",
+ "KEYWORD_SUPERBLEED": "<style=cKeywordName>نزيف حادّ</style><style=cSub>يُحدث <style=cIsDamage>2000%</style> من الضرر الأساسي خلال 15ث. <i>النزيف الحادّ يتراكم.</i></style>",
+ "KEYWORD_IGNITE": "<style=cKeywordName>إشعال</style><style=cSub>يُحدث ضررًا إضافيًا بنسبة <style=cIsDamage>+50%</style> من الضرر الكلي عبر الزمن.",
+ "KEYWORD_WEAKPOINT": "<style=cKeywordName>نقطة ضعف</style><style=cSub>تُحدَّد في أجساد الأعداء مواضع تحوي <style=cIsDamage>نقاط ضعف</style>. وإصابة <style=cIsDamage>نقطة الضعف</style> تضمن <style=cIsDamage>ضربة حرجة</style>.",
+ "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>إعادة تلقيم نشطة</style><style=cSub>أعد تلقيم مدفعك بعد إطلاق النار. <style=cIsDamage>الإعادة المثالية</style> تُحدث ضررًا إضافيًا بنسبة <style=cIsDamage>+500%</style> من الضرر الأساسي في طلقتك التالية.",
+ "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName>فساد</style><style=cSub>تكتسب الفساد بتلقّي الضرر أو إحداث ضربات حرجة أو حمل أغراض الفراغ. ويقلّ الفساد بالشفاء.</style>"
+}

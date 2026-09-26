@@ -1,0 +1,24 @@
+# Build output and the release archives
+dist/
+src/RoR2Arabic/bin/
+src/RoR2Arabic/obj/
+
+# Generated from lang/ by tools/build_lang.py. Kept out so the repo has one source of
+# truth for the text; tools/release.sh rebuilds it.
+language/ar/Strings.json
+language/ar/language.json
+
+# The Python environment the tools run in
+venv/
+
+# The game's own text and decompiled assemblies, kept locally for reference only. These
+# are the developers' and are not ours to publish.
+work/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Working screenshots from development sessions - large, and most are debugging probes
+screenshots/
+fonts/ror-noto-arabic.ttf

@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>RoR2Arabic</AssemblyName>
+    <RootNamespace>RoR2Arabic</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <EnableDefaultCompileItems>true</EnableDefaultCompileItems>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <DebugType>none</DebugType>
+    <!-- The game's assemblies are not reference assemblies; silence the warning. -->
+    <NoWarn>$(NoWarn);CS1701;CS0436;MSB3277</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <!-- Where the game is. Override it for your own install with either
+         `dotnet build -p:GameDir="..."` or a ROR2_DIR environment variable;
+         building needs the game's own assemblies, which are not ours to ship. -->
+    <GameDir Condition="'$(GameDir)' == '' and '$(ROR2_DIR)' != ''">$(ROR2_DIR)</GameDir>
+    <GameDir Condition="'$(GameDir)' == ''">/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2</GameDir>
+    <Managed>$(GameDir)/Risk of Rain 2_Data/Managed</Managed>
+    <BepInExCore>$(GameDir)/BepInEx/core</BepInExCore>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx"><HintPath>$(BepInExCore)/BepInEx.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(BepInExCore)/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="RoR2"><HintPath>$(Managed)/RoR2.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Unity.TextMeshPro"><HintPath>$(Managed)/Unity.TextMeshPro.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine"><HintPath>$(Managed)/UnityEngine.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(Managed)/UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(Managed)/UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule"><HintPath>$(Managed)/UnityEngine.TextCoreFontEngineModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.UI"><HintPath>$(Managed)/UnityEngine.UI.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.AssetBundleModule"><HintPath>$(Managed)/UnityEngine.AssetBundleModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+
+</Project>
