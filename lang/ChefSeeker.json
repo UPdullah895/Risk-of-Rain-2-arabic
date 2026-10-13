@@ -7,7 +7,7 @@
  "CHEF_PASSIVE_NAME": "قُبلة الطاهي",
  "CHEF_PASSIVE_DESCRIPTION": "قتل الأعداء بمهارتين أو أكثر يطهوهم ويُسقط طعامًا <style=cIsHealing>شافيًا</style>.",
  "CHEF_PRIMARY_NAME": "تقطيع",
- "CHEF_PRIMARY_DESCRIPTION": "يقذف ساطورًا <style=cIsDamage>خارقًا</style> على الأعداء بضرر <style=cIsDamage>200%</style>. والاستمرار بالضغط <style=cIsDamage>يضاعف ضرر الاستدعاء</style>.",
+ "CHEF_PRIMARY_DESCRIPTION": "<style=cIsUtility>متسارع</style>. يقذف ساطورًا <style=cIsDamage>خارقًا</style> على الأعداء بضرر <style=cIsDamage>200%</style>. والاستمرار بالضغط <style=cIsDamage>يضاعف ضرر الاستدعاء</style>.",
  "CHEF_PRIMARY_BOOST_DESCRIPTION": "<style=cKeywordName>تعزيز</style><style=cSub>تعزيز \"التقطيع\" يقذف السواطير في كل الاتجاهات بضرر <style=cIsDamage>400%</style>.",
  "CHEF_PRIMARY_BOOST_DESCRIPTION_SKILL": "يقذف السواطير في كل الاتجاهات بضرر <style=cIsDamage>400%</style>.",
  "CHEF_SECONDARY_NAME": "شَيّ",

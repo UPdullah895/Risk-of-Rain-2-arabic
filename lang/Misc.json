@@ -78,7 +78,7 @@
  "ACTION_MOVE_HORIZONTAL_POSITIVE": "التحرّك يمينًا",
  "ACTION_MOVE_HORIZONTAL_NEGATIVE": "التحرّك يسارًا",
  "INPUT_KEYBOARD_UNBOUND": "[لا مفتاح مُعيَّن]",
- "INPUT_GAMEPAD_UNBOUND": "[لا زرّ مُعيَّن]",
+ "INPUT_GAMEPAD_UNBOUND": "[غير مُعيَّن]",
 
  "HOSTGAMEPANEL_TITLE": "أنشئ لعبة جماعية",
  "HOSTGAMEPANEL_HEADER_SERVER_SETTINGS": "إعدادات اللعبة",

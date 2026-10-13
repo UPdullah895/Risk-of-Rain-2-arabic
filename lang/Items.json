@@ -91,7 +91,7 @@
  "ITEM_PERSONALSHIELD_DESC": "تكسب <style=cIsHealing>دِرعًا</style> يعادل <style=cIsHealing>8%</style> <style=cStack>(+8% لكل نسخة)</style> من أقصى صحتك. يُعاد شحنه بعيدًا عن الخطر.",
  "ITEM_NOVAONHEAL_NAME": "رأي نكوهانا",
  "ITEM_NOVAONHEAL_PICKUP": "تُطلق جماجم مطاردة عند شفائك.",
- "ITEM_NOVAONHEAL_DESC": "تُخزّن <style=cIsHealing>100%</style> <style=cStack>(+100% لكل نسخة)</style> من الشفاء على هيئة <style=cIsHealing>طاقة روح</style>. متى بلغت <style=cIsHealing>طاقة الروح</style> <style=cIsHealing>10%</style> من <style=cIsHealing>أقصى صحتك</style>، <style=cIsDamage>تُطلق جمجمة</style> تُلحق <style=cIsDamage>250%</style> من <style=cIsHealing>طاقة روحك</style> على هيئة <style=cIsDamage>ضرر</style>.",
+ "ITEM_NOVAONHEAL_DESC": "تُخزّن <style=cIsHealing>100%</style> <style=cStack>(+100% لكل نسخة)</style> من الشفاء على هيئة <style=cIsHealing>طاقة روح</style>. متى بلغت <style=cIsHealing>طاقة الروح</style> <style=cIsHealing>10%</style> من <style=cIsHealing>أقصى صحتك</style>، <style=cIsDamage>تُطلق جمجمة</style> تُلحق <style=cIsDamage>250% <style=cStack>(+250% لكل نسخة)</style> ضررًا</style> إضافةً إلى مقدار يساوي <style=cIsDamage>250%</style> من <style=cIsHealing>طاقة روحك</style>.",
  "ITEM_MEDKIT_NAME": "حقيبة إسعاف",
  "ITEM_MEDKIT_PICKUP": "شفاء مؤجّل بعد تلقّي الضرر.",
  "ITEM_MEDKIT_DESC": "بعد ثانيتين من إصابتك، <style=cIsHealing>تُشفى</style> بمقدار <style=cIsHealing>20</style> زائد <style=cIsHealing>5% <style=cStack>(+5% لكل نسخة)</style></style> إضافية من <style=cIsHealing>أقصى الصحة</style>.",

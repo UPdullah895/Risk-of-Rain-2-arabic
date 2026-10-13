@@ -39,7 +39,7 @@
  "DRIFTER_UTILITY_ALT_NAME": "صَدمة الإعصار",
  "DRIFTER_UTILITY_ALT_A_DESCRIPTION": "<style=cIsDamage>مُشِلّة</style>. تهوين بحقيبتك بضرر <style=cIsDamage>400%</style>، مع احتمال عالٍ لإسقاط <style=cisUtility>نُفاية</style>. وتُنفَّذ تلقائيًّا في نهاية \"صَدمة الإعصار\" إن لم تُقطع.",
  "DRIFTER_UTILITY_ALT_A_NAME": "صَدمة الإعصار",
- "DRIFTER_UTILITY_DESCRIPTION": "تثبين إلى الأمام وتحقّبين <style=cIsDamage>وحشًا</style> أو <style=cIsUtility>مُتفاعَلًا</style>. واستعمليها ثانية لتقذفي ما في حقيبتك. والأشياء المأسورة <style=cIsDamage>تُهرَس</style>.",
+ "DRIFTER_UTILITY_DESCRIPTION": "تثبين إلى الأمام وتحقّبين <style=cIsDamage>عدوًّا</style> أو <style=cIsUtility>مُتفاعَلًا</style>. واستعمليها ثانية لتقذفي ما في حقيبتك. والأشياء المأسورة <style=cIsDamage>تُهرَس</style>.",
  "DRIFTER_UTILITY_NAME": "مصادرة",
  "DRIFTER_UTILITY_B_DESCRIPTION": "اقذفي الشيء المحمول من حقيبتك. <style=cIsUtility>يشلّ</style> عند الارتطام ويُلحق ضرر <style=cIsDamage>280%</style> يتناسب مع كتلة الشيء. ويُسقط <style=cIsUtility>نُفاية</style>.",
  "DRIFTER_UTILITY_B_NAME": "إلقاء",

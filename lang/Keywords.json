@@ -7,7 +7,7 @@
  "KEYWORD_WEAK": "<style=cKeywordName>إنهاك</style><style=cSub>يخفض سرعة الحركة والضرر بنسبة <style=cIsDamage>40%</style>. ويخفض التدريع بمقدار <style=cIsDamage>20</style>.</style>",
  "KEYWORD_HEAVY": "<style=cKeywordName>ثقيل</style><style=cSub>كلما زادت سرعة حركتك زاد ضرر المهارة.</style>",
  "KEYWORD_FREEZING": "<style=cKeywordName>تجميد</style><style=cSub>يجمّد الأعداء في أماكنهم. والعدو المجمّد <style=cIsHealth>يُقتل فورًا</style> إن كانت صحته دون <style=cIsHealth>30%</style>.</style>",
- "KEYWORD_STUNNING": "<style=cKeywordName>إذهال</style><style=cSub>يقطع هجوم الأعداء ويذهلهم لوهلة.",
+ "KEYWORD_STUNNING": "<style=cKeywordName>إذهال</style><style=cSub>يقطع هجوم الأعداء ويذهلهم لوهلة.</style>",
  "KEYWORD_EXPOSE": "<style=cKeywordName>كشف</style><style=cSub>إصابة الأعداء المكشوفين تخفض أزمنة استعادة كل المهارات بمقدار <style=cIsUtility>1.0ث</style> وتُحدث ضررًا إضافيًا بنسبة <style=cIsDamage>+350%</style>.",
  "KEYWORD_SHOCKING": "<style=cKeywordName>صعق</style><style=cSub>يقطع هجوم الأعداء ويذهلهم. ويزول الإذهال إن تلقّى الهدف ضررًا يتجاوز <style=cIsHealth>10%</style> من صحته القصوى.",
  "KEYWORD_SLAYER": "<style=cKeywordName>فتّاك</style><style=cSub>يُحدث ضررًا يصل إلى <style=cIsDamage>3 أضعاف</style> ضد الأعداء منخفضي الصحة.</style>",

@@ -133,5 +133,5 @@ translated:
 
 ## State
 
-4,067 of 4,677 tokens are translated. What is left in English is deliberate and listed in the
+4,915 of 5,578 tokens are translated. What is left in English is deliberate and listed in the
 README. `tools/build_lang.py` prints the running count on every build.
