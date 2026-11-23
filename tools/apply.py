@@ -13,8 +13,10 @@ Chinese will show tofu. A shippable version needs one font carrying both.
 """
 import glob, os, shutil, sys, UnityPy
 
-GAME = ("/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2/"
-        "Risk of Rain 2_Data/StreamingAssets")
+# Set ROR2_DIR to point at your own install.
+GAME = os.path.join(os.environ.get(
+    "ROR2_DIR", "/run/media/updullah/SSD 480GB/SteamLibrary/steamapps/common/Risk of Rain 2"),
+    "Risk of Rain 2_Data", "StreamingAssets")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT = os.path.join(ROOT, "fonts", "ror-noto-arabic.ttf")
 LANG_SRC = os.path.join(ROOT, "language", "ar")
